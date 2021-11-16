@@ -1,1 +1,1 @@
-# CLASSES_PHP
+# Criando uma classe de conexão com MySQLI e PHP 7++
