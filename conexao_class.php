@@ -34,10 +34,5 @@ class conexao {
 		
 }
 
-$obj = new conexao();
-$obj->conectar();
-
-
-
 
 ?>
